@@ -6,7 +6,7 @@ import json
 
 # Initialize Square client
 client = Client(
-    access_token='EAAAF1ZpSxMh_6qSmmYhN_yJGCv322ZSNKB_9PKc36BRr5Ww3ALrWgqP3_dYD5Cw',
+    access_token='',
     environment='production'
 )
 
